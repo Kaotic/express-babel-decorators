@@ -1,0 +1,15 @@
+{
+  "name": "@calzoneman/express-babel-decorators",
+  "version": "1.0.0",
+  "description": "REST decorators for express routes, using babel's legacy decorator plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Calvin Montgomery",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.4",
+    "mocha": "^3.5.0"
+  }
+}
