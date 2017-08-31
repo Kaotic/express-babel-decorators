@@ -2,6 +2,9 @@
   "name": "@calzoneman/express-babel-decorators",
   "version": "1.0.0",
   "description": "REST decorators for express routes, using babel's legacy decorator plugin",
+  "repository": {
+      "url": "https://github.com/calzoneman/express-babel-decorators"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha"
